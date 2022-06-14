@@ -1,5 +1,5 @@
 # League-Tracker
-Python bot for discord that track your friend elo and stats on league
+Python bot for discord that track your friend's elo and stats on league
 
 This bot is a V1, im not working on it anymore until I get the acces to an other API key from riot.
 
