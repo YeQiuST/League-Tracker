@@ -14,6 +14,8 @@ Next goals are to clean up the code and remove the french words inside it.
 
 - Add some automation so that the update for lp is print automatically
 
+- Have to fix a lot of spaghetti code my "elo calculation" wasnt meant to check if someone was deserving his elo or not, so with the feature not online it just seems awulf 
+
 Maybe one day i will add a a valorant version to the project whenever riot open the api 
 
 ----- 
